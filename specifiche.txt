@@ -1,1 +1,16 @@
-...
+***randomizzare le parole***
+
+è data una stringa di caratteri contenente parole separate dal carattere spazio
+
+randomizzare le parole per produrre una nuova stringa di caratteri
+vanno riutilizzate tutte le singole parole (una sola volta ciascuna)
+
+
+esempio:
+
+è data la stringa di caratteri:
+"hello world mi chiamo pino sono date delle stringhe"
+
+
+output:
+"mi stringhe chiamo pino sono date world delle hello"
